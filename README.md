@@ -1,4 +1,4 @@
-Kubernetes Commands and Their Functions
+Kubernetes Commands and Their Functions.
 Verify Metrics Server
 kubectl get pods -n kube-system | grep metrics
 Function: Checks that the metrics server is running, which is required for HPA.
